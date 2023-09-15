@@ -25,38 +25,38 @@ compiler compains if you try to use a local variable BEFORE the variable is init
 **#A class can have any number of:**<br>
 instance variables, getter, setter, method<br>
 
-#**A method can only have one of these** <br>
+#**A method can only have one of these: ** <br>
 return<br>
 
-#**This can be implicitly promoted**<br>
+#**This can be implicitly promoted: **<br>
 return, argument<br>
 
-#**I prefer my instance variables private**<br>
+#**I prefer my instance variables private: **<br>
 encapslation<br>
 
-#**it really means 'make a copy'**<br>
+#**it really means 'make a copy': **<br>
 pass by value<br>
 
-#**Only setters should be updated**<br>
+#**Only setters should be updated: **<br>
 instance variable<br>
 
-#**A Method can have many of these**<br>
+#**A Method can have many of these: **<br>
 arguments<br>
 
-#**I return something**<br>
+#**I return something: **<br>
 getter<br>
 
-#**I shouldnt be used with instance variables**<br>
+#**I shouldnt be used with instance variables: **<br>
 public<br>
 
-#**I can have many arguments**(br>
+#**I can have many arguments: **(br>
 method<br>
 
-#**By definition, I take on argument**<br>
+#**By definition, I take on the argument: **<br>
 setter<br>
 
-#**These help create encapsulation**
+#**These help create encapsulation: **
 getter, setter, public, private
 
-#**I always fly solo**<br>
+#**I always fly solo: **<br>
 return<br>
