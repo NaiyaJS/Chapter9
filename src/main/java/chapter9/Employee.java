@@ -12,7 +12,7 @@ public class Employee extends Person{
     public String getEmployeeID(){
         return employeeID;
     }
-    publicpwd void setEmployeeID(String employeeID){
+    public void setEmployeeID(String employeeID){
         this.employeeID = employeeID;
     }
     public String getTitle(){
